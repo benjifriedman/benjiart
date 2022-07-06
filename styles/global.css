@@ -26,3 +26,7 @@ img {
   display: block;
   margin-bottom: 1.3rem;
 }
+
+p {
+  margin-bottom: 0;
+}
