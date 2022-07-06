@@ -36,20 +36,22 @@ export default function Home({ allPostsData }) {
       </Link> */}
 
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
-        {/* <h2 className={utilStyles.headingLg}>Blog</h2> */}
         <ul className={utilStyles.list}>
           {allPostsData.map(({ id, date, title }) => (
             <li className={utilStyles.listItem} key={id}>
               <Link href={`/posts/${id}`}>
                 <a>{title}</a>
               </Link>
-              <br />
+              {/* <br />
               <small className={utilStyles.lightText}>
                 <Date dateString={date} />
-              </small>
+              </small> */}
             </li>
           ))}
         </ul>
+        <p style={{ textAlign: "center" }}>
+          <a href="https://benjifriedman.com">benjifriedman.com</a>
+        </p>
       </section>
     </Layout>
   );

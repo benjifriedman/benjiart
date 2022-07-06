@@ -5,22 +5,17 @@ import utilStyles from "../styles/utils.module.css";
 import Link from "next/link";
 
 const name = "Benji Friedman";
-export const siteTitle = "Next.js Website";
+export const siteTitle = "Benji Friedman Art";
 
 export default function Layout({ children, home }) {
   return (
     <div className={styles.container}>
       <Head>
         <link rel="icon" href="/favicon.ico" />
-        <meta
-          name="description"
-          content="Building a personal website using Next.js"
-        />
+        <meta name="description" content="Personal website using Next.js" />
         <meta
           property="og:image"
-          content={`https://og-image.vercel.app/${encodeURI(
-            siteTitle
-          )}.png?theme=light&md=0&fontSize=75px&images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fnextjs-black-logo.svg`}
+          content="https://assets2.ello.co/uploads/asset/attachment/5984426/ello-optimized-7fa460f6.jpg"
         />
         <meta name="og:title" content={siteTitle} />
         <meta name="twitter:card" content="summary_large_image" />
