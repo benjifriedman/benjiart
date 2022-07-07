@@ -1,5 +1,5 @@
 ---
-title: "Series 2"
+title: "Collection 2"
 date: "2022-07-06"
 ---
 

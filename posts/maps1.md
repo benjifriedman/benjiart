@@ -1,5 +1,5 @@
 ---
-title: "Series 1"
+title: "Collection 1"
 date: "2022-07-05"
 ---
 
@@ -12,3 +12,4 @@ date: "2022-07-05"
 ![painting](https://assets1.ello.co/uploads/asset/attachment/6330706/ello-optimized-cb8924cb.jpg)
 ![black painting](https://assets0.ello.co/uploads/asset/attachment/6272874/ello-optimized-cfb5e0ae.jpg)
 ![digital on newsprint](https://assets2.ello.co/uploads/asset/attachment/14968228/ello-optimized-5c636173.jpg)
+![plant mandala](https://assets2.ello.co/uploads/asset/attachment/4185186/ello-optimized-0324c6d1.jpg)
