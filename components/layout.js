@@ -12,7 +12,10 @@ export default function Layout({ children, home }) {
     <div className={styles.container}>
       <Head>
         <link rel="icon" href="/favicon.ico" />
-        <meta name="description" content="Personal website using Next.js" />
+        <meta
+          name="description"
+          content="Benji Friedman, Berkeley Bay Area Artist Website, Various Collections of photography and paintings and other kinds of creative work"
+        />
         <meta
           property="og:image"
           content="https://assets2.ello.co/uploads/asset/attachment/5984426/ello-optimized-7fa460f6.jpg"
