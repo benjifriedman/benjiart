@@ -22,7 +22,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={`${utilStyles.headingMd} ${utilStyles.center}`}>
-        <p style={{ marginBottom: "10px" }}>Sharing some of my art</p>
+        <p style={{ marginBottom: "10px" }}>Various Collections</p>
       </section>
 
       {/* <Link href="/posts/second-post">
