@@ -1,5 +1,5 @@
 ---
-title: "Collection 2"
+title: "Random Collection 2"
 date: "2022-07-06"
 ---
 

@@ -21,9 +21,9 @@ export default function Home({ allPostsData }) {
       <Head>
         <title>{siteTitle}</title>
       </Head>
-      <section className={`${utilStyles.headingMd} ${utilStyles.center}`}>
-        <p style={{ marginBottom: "10px" }}>Various Collections</p>
-      </section>
+      {/* <section className={`${utilStyles.headingMd} ${utilStyles.center}`}>
+        <p style={{ marginBottom: "10px" }}>Posts</p>
+      </section> */}
 
       {/* <Link href="/posts/second-post">
         <a>Second Post</a>

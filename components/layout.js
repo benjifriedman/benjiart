@@ -5,7 +5,7 @@ import utilStyles from "../styles/utils.module.css";
 import Link from "next/link";
 
 const name = "Benji Friedman";
-export const siteTitle = "Benji Friedman - Various Collections";
+export const siteTitle = "Benji Friedman Art";
 
 export default function Layout({ children, home }) {
   return (
