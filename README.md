@@ -1,5 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
-
 This is what a page looks like:
 
 import Head from "next/head";
@@ -10,6 +8,7 @@ import Layout from "../../components/layout";
 export default function SecondPost() {
 return (
 <Layout>
+
 <Head>
 <title>Second Post</title>
 </Head>
